@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🎬 мσνιєѕ 🎥', url='https://t.me/SJ_AJ_BACKUP_MOVIE')
+                InlineKeyboardButton('🔋 ѕтσяє 🦋', url='https://t.me/+6yYZJLZa09xjMjll')
             ],
             [
                 InlineKeyboardButton('🙆🏻 нєℓρ 🙁', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('➕↖️ α∂∂ мє тσ уσυя gяσυρ ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🧞‍♀️ ѕєαя¢н 🧐', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎬 Мσνιєѕ 🎥', url='https://t.me/SJ_AJ_BACKUP_MOVIE')
+            InlineKeyboardButton('🔋 ѕтσяє 🦋', url='https://t.me/+6yYZJLZa09xjMjll')
             ],[
             InlineKeyboardButton('🙆🏻 нєℓρ 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ αвσυт ♥️', callback_data='about')
@@ -91,7 +91,7 @@ async def start(client, message):
             InlineKeyboardButton('➕↖️ α∂∂ мє To уσυя gяσυρѕ ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🧞‍♀️ ѕєαя¢н 🧐', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎬 мσνιєѕ 🎥', url='https://t.me/newyear2023group')
+            InlineKeyboardButton('🎬 мσνιєѕ 🎥', url='https://t.me/+6yYZJLZa09xjMjll')
             ],[
             InlineKeyboardButton('🙆🏻 нєℓρ 🙁', callback_data='help'),
             InlineKeyboardButton('♥️ αвσυт ♥️', callback_data='about')
