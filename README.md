@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/14ea49625341fb27b4df6.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> SANDY BOT </b>
 </h1>
 
 ## ⚡️Features
